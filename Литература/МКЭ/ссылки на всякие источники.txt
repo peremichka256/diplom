@@ -1,0 +1,5 @@
+https://www.comsol.ru/multiphysics/fea-software?parent=finite-element-method-042-62-22
+https://www.comsol.ru/multiphysics/finite-element-method?parent=physics-pdes-numerical-042-62
+https://www.comsol.ru/blogs/fem-vs-fvm/
+https://www.youtube.com/watch?v=GHjopp47vvQ&t=102s
+https://www.autodesk.ru/solutions/finite-element-analysis

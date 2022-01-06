@@ -1,0 +1,32 @@
+https://www.comsol.ru/community/exchange/?page=1
+https://www.frontiersin.org/subjects/comsol-multiphysics
+
+Theoretical Study on Characteristics of Glow Discharged Neon Gas and Its Interaction With Terahertz Waves
+https://www.frontiersin.org/articles/10.3389/fphy.2021.751335/full
+
+Lead-Cooled Fast Reactor Annular UN Fuel Design and Development of Performance Analysis Program
+https://www.frontiersin.org/articles/10.3389/fenrg.2021.705944/full
+
+Structure-Size Optimization and Fabrication of 3.7 GHz Film Bulk Acoustic Resonator Based on AlN Thin Film
+https://www.frontiersin.org/articles/10.3389/fmats.2021.731611/full
+
+Effectiveness of Thermal Properties in Thermal Energy Storage Modeling
+https://www.frontiersin.org/articles/10.3389/fmech.2021.690793/full
+
+Optimization Based on the Surface Plasmon Optical Properties of Adjustable Metal Nano-Microcavity System for Biosensing
+https://www.frontiersin.org/articles/10.3389/fchem.2021.762638/full
+
+Simulated Effect of Carbon Black on High Speed Laser Transmission Welding of Polypropylene With Low Line Energy
+https://www.frontiersin.org/articles/10.3389/fmats.2021.737689/full
+
+Three-Dimensional Model of Sub-Plasmalemmal Ca2+ Microdomains Evoked by the Interplay Between ORAI1 and InsP3 Receptors
+https://www.frontiersin.org/articles/10.3389/fimmu.2021.659790/full
+
+Coupled Modeling and Simulation of Phase Transformation in Zircaloy-4 Fuel Cladding Under Loss-of-Coolant Accident Conditions
+https://www.frontiersin.org/articles/10.3389/fenrg.2021.667419/full
+
+En Route to a Unified Model for Photoelectrochemical Reactor Optimization. II–Geometric Optimization of Perforated Photoelectrodes
+https://www.frontiersin.org/articles/10.3389/fceng.2021.749058/full
+
+Investigation on Coal Skeleton Deformation in CO2 Injection Enhanced CH4 Drainage From Underground Coal Seam
+https://www.frontiersin.org/articles/10.3389/feart.2021.766011/full
